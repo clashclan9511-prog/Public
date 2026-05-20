@@ -1,0 +1,65 @@
+{
+  "1504904085877428434": {
+    "1502259026925326436": {
+      "xp": 2520,
+      "level": 6,
+      "messages": 202,
+      "daily": {
+        "date": "2026-05-20",
+        "messages": 131,
+        "voice_minutes": 0
+      },
+      "weekly": {
+        "week": "2026-W21",
+        "messages": 131,
+        "voice_minutes": 0
+      }
+    },
+    "1505708836994941005": {
+      "xp": 263,
+      "level": 1,
+      "messages": 19,
+      "daily": {
+        "date": "2026-05-20",
+        "messages": 12,
+        "voice_minutes": 0
+      },
+      "weekly": {
+        "week": "2026-W21",
+        "messages": 12,
+        "voice_minutes": 0
+      }
+    },
+    "1167244314385072132": {
+      "xp": 67,
+      "level": 0,
+      "messages": 3,
+      "daily": {
+        "date": "2026-05-20",
+        "messages": 0,
+        "voice_minutes": 0
+      },
+      "weekly": {
+        "week": "2026-W21",
+        "messages": 0,
+        "voice_minutes": 0
+      }
+    },
+    "1358792975664156792": {
+      "xp": 489,
+      "level": 2,
+      "messages": 39,
+      "voice_minutes": 0,
+      "daily": {
+        "date": "2026-05-20",
+        "messages": 39,
+        "voice_minutes": 0
+      },
+      "weekly": {
+        "week": "2026-W21",
+        "messages": 39,
+        "voice_minutes": 0
+      }
+    }
+  }
+}
